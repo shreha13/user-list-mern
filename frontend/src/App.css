@@ -1,0 +1,11 @@
+.avatar-url {
+  height: 100px;
+  width: auto;
+  border: 1px solid #dee2e6;
+  border-radius: 50%;
+}
+
+.details-1 {
+  max-width: 250px;
+  width: 250px;
+}
